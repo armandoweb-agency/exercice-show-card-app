@@ -1,3 +1,24 @@
+# EXERCICE - Show Cards App 
+## App para mostrar listado de Cards
+Ejercicio para listar cards por categoria
+## _Descripción_
+Desarrollado en React, Javascript y BOOSTRAP, Basado en componentes funcionales.
+Usando una data creada en data.js permite mostrar un listado de items filtrando los elementos por categorias.
+
+Componentes:
+Item
+ItemList
+ItemListContainer
+ItemDetail
+ItemDetailContainer
+NavBar
+
+Data y getData:
+data.js
+getItems.js
+
+**Free Software, Hell Yeah! -  Desarrollado por: Armando Rivas**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
