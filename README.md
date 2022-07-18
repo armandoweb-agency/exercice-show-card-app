@@ -5,17 +5,17 @@ Ejercicio para listar cards por categoria
 Desarrollado en React, Javascript y BOOSTRAP, Basado en componentes funcionales.
 Usando una data creada en data.js permite mostrar un listado de items filtrando los elementos por categorias.
 
-Componentes:
-Item
-ItemList
-ItemListContainer
-ItemDetail
-ItemDetailContainer
-NavBar
+1. Componentes:
+- Item
+- ItemList
+- ItemListContainer
+- ItemDetail
+- ItemDetailContainer
+- NavBar
 
-Data y getData:
-data.js
-getItems.js
+2. Data y getData:
+- data.js
+- getItems.js
 
 **Free Software, Hell Yeah! -  Desarrollado por: Armando Rivas**
 
